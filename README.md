@@ -14,7 +14,7 @@
  <img src="https://img.shields.io/badge/javasript-F3F781?style=flat-square&logo=javasript&logoColor=white"/>
  <img src="https://img.shields.io/badge/javasript-F3F781?style=flat-square&logo=javasript&logoColor=white"/>
 </div>
-<div align=center> Skills 
+<div align=center>  
  <img src="https://img.shields.io/badge/Python-A4A4A4?style=flat-square&logo=python&logoColor=white"/>
  <img src="https://img.shields.io/badge/Django-0B3B17?style=flat-square&logo=Django&logoColor=white"/>
  <img src="https://img.shields.io/badge/Mysql-FF0000?style=flat-square&logo=mysql&logoColor=white"/>
