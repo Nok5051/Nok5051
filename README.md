@@ -1,6 +1,4 @@
-<img src = "https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&
-text=SJ%20Gwak&fontSize=32&
-animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
+<img src = "https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=SJ%20Gwak&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
 
 
 
@@ -11,7 +9,7 @@ animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
  <a href="#" target="_blank"><img src="https://img.shields.io/badge/nok5051@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </div>
 
-
+<br>
 
 <h3 align=center> Skills </h3>
 <div align=center>
