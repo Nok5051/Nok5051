@@ -1,6 +1,11 @@
 <h1 align=center> 차세대 데이터 엔지니어 SJ </h1>
 
- 
+<img src = "https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&
+text=SJ%20Gwak&fontSize=32&
+animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
+
+
+
  
 <h3 align=center> Contact </h3>
 <div align=center>  
@@ -12,11 +17,9 @@
 
 <h3 align=center> Skills </h3>
 <div align=center>
- <a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/HTML5-F78181?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-5858FA?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javasript-F3F781?style=flat-square&logo=javasript&logoColor=white"/>
- <a>
+ <img src="https://img.shields.io/badge/HTML5-F78181?style=flat-square&logo=HTML5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS3-5858FA?style=flat-square&logo=CSS3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/javasript-F3F781?style=flat-square&logo=javasript&logoColor=white"/>
 </div>
 
 <div align=center>  
