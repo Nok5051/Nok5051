@@ -9,5 +9,7 @@
 ### Skills 
 <a>
  <img src="https://img.shields.io/badge/HTML5-F78181?style=flat-square&logo=HTML5&logoColor=white"/>
+</a>
+<a>
  <img src="https://img.shields.io/badge/CSS3-5858FA?style=flat-square&logo=CSS3&logoColor=white"/>
 </a>
