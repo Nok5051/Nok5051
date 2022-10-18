@@ -15,12 +15,20 @@
  <img src="https://img.shields.io/badge/CSS3-5858FA?style=flat-square&logo=CSS3&logoColor=white"/>
  <img src="https://img.shields.io/badge/javasript-F3F781?style=flat-square&logo=javasript&logoColor=white"/>
 </div>
+
 <div align=center>  
  <img src="https://img.shields.io/badge/Python-A4A4A4?style=flat-square&logo=python&logoColor=white"/>
  <img src="https://img.shields.io/badge/Django-0B3B17?style=flat-square&logo=Django&logoColor=white"/>
  <img src="https://img.shields.io/badge/Mysql-FF0000?style=flat-square&logo=mysql&logoColor=white"/>
  <img src="https://img.shields.io/badge/AWS EC2-FAAC58?style=flat-square&logo=Amazon EC2&logoColor=white"/>
- 
 </div>
- 
+
+<div align=center>  
+ <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache Hadoop&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/>
+</div>
+
+
 
