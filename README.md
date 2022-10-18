@@ -1,5 +1,3 @@
-<h1 align=center> 차세대 데이터 엔지니어 SJ </h1>
-
 <img src = "https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&
 text=SJ%20Gwak&fontSize=32&
 animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
