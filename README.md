@@ -7,5 +7,5 @@
 
 
 ### Skills 
-<img src="https://img.shields.io/badge/instagram-5858FA?style=flat-square&logo=html&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-5858FA?style=flat-square&logo=HTML5&logoColor=white"/>
 
