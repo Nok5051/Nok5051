@@ -19,7 +19,7 @@
  <img src="https://img.shields.io/badge/Python-A4A4A4?style=flat-square&logo=python&logoColor=white"/>
  <img src="https://img.shields.io/badge/Django-0B3B17?style=flat-square&logo=Django&logoColor=white"/>
  <img src="https://img.shields.io/badge/Mysql-FF0000?style=flat-square&logo=mysql&logoColor=white"/>
- <img src="https://img.shields.io/badge/AWS EC2-FAAC58?style=flat-square&logo=AWS EC2&logoColor=white"/>
+ <img src="https://img.shields.io/badge/AWS EC2-FAAC58?style=flat-square&logo=Amazon EC2&logoColor=white"/>
  
 </div>
  
