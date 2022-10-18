@@ -24,7 +24,7 @@
 </div>
 
 <div align=center>  
- <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache Hadoop&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=Apache Hadoop&logoColor=white"/>
  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/>
  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
  <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/>
